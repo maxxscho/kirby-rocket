@@ -30,6 +30,11 @@ Icon
 /node_modules
 /site/plugins
 
+# Files produced by ViteJS
+# ---------------------------
+/public/build
+/public/hot
+
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
 # -------------SECURITY-------------
