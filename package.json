@@ -1,0 +1,19 @@
+{
+  "name": "kirby-rocket-plain",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "<img src=\"http://getkirby.com/assets/images/github/plainkit.jpg\" width=\"300\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "laravel-vite-plugin": "^1.0.5",
+    "postcss": "^8.4.47",
+    "vite": "^5.4.8"
+  }
+}
