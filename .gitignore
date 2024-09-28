@@ -28,6 +28,7 @@ Icon
 /kirby
 /vendor
 /node_modules
+/site/plugins
 
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
