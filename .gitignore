@@ -61,3 +61,8 @@ Icon
 # ---------------
 
 /site/config/.license
+
+# Environment
+# ---------------
+
+.env

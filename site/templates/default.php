@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="en">
+<html lang="<?= kirby()->language()?->code() ?? 'en' ?>">
   <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite App</title>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="<?= url('rocket.svg') ?>" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title><?= $site->title()->esc() ?> | <?= $page->title()->esc() ?></title>
     <?= vite([
       'src/css/app.css',
       'src/js/app.js',
