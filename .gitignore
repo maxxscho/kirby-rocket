@@ -28,7 +28,8 @@ Icon
 /kirby
 /vendor
 /node_modules
-/site/plugins
+/site/plugins/*
+!/site/plugins/index.html
 
 # Files produced by ViteJS
 # ---------------------------
