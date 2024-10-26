@@ -2,6 +2,8 @@
   "name": "maxxscho/kirby-rocket",
   "description": "Kirby 4 Boilerplate with TailwindCSS, AlpineJS and ViteJS for tooling",
   "type": "project",
+  "license": "MIT",
+  "minimum-stability": "stable",
   "keywords": [
     "kirby",
     "cms",
