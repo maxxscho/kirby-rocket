@@ -2,7 +2,7 @@
 <html lang="<?= kirby()->language()?->code() ?? 'en' ?>">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="<?= url('rocket.svg') ?>" />
+    <link rel="icon" type="image/svg+xml" href="<?= asset('assets/rocket.svg')->url() ?>" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title><?= $site->title()->esc() ?> | <?= $page->title()->esc() ?></title>
     <?= vite([
