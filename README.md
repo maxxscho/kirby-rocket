@@ -38,8 +38,3 @@ or build the assets.
 ```bash
 npm run build
 ```
-
-## Different directory structure
-
-The `index.php` entry point of kirby has been moved into a `public` folder to keep all built assets and the entry point itself separated from Kirby.
-Another reason for this change was to be more Vite-like.
