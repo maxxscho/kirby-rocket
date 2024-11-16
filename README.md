@@ -38,3 +38,7 @@ or build the assets.
 ```bash
 npm run build
 ```
+
+### Error when opening the site for the first time
+
+If you open the site the first time and you get an error it's most likely because you didn't start the Dev-Server with `npm run dev` or didn't run the build with `npm run build`. Therefore the Vite Helper doesn't find the `manifest.json`.
