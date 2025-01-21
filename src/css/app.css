@@ -1,9 +1,5 @@
-@import "tailwindcss/base";
-@import "tailwindcss/components";
+@import "tailwindcss";
+@source "../../site";
+@source "../../content/";
 
-/* Import additional CSS files like this */
-/* @import "components/button.css"; */
-
-@import "tailwindcss/utilities";
-
-@import "utilities/alpine.css";
+@import "./utilities/alpine.css"
