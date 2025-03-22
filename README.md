@@ -11,7 +11,7 @@ A starter kit for the great [Kirby CMS](https://getkirby.com/), based on [Kirby 
 ## Requirements
 
 - PHP 8.1+
-- NodeJS 18+
+- NodeJS (with NPM) 18+
 
 ## Usage
 
@@ -20,6 +20,9 @@ The easiest way to install the project is with `composer create-project`.
 ```bash
 composer create-project maxxscho/kirby-rocket your-project-directory
 ```
+
+Node modules are installed and built automatically after project creation.   
+To run everything manually:
 
 In your project root install the node modules.
 
