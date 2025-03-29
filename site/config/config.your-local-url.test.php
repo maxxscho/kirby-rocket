@@ -7,7 +7,7 @@ return [
      *
      * Then put your local config options here.
      */
-    'debug' => 'true',
+    'debug' => true,
     'cache' => [
         'pages' => [
             'active' => false,
