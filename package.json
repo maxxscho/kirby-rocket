@@ -18,9 +18,9 @@
     "eslint": "^10.13.0",
     "eslint-config-prettier": "^10.1.5",
     "globals": "^17.13.0",
-    "laravel-vite-plugin": "^1.0.5",
+    "laravel-vite-plugin": "^3.2.0",
     "prettier": "^3.3.3",
-    "vite": "^6.3.5"
+    "vite": "^8.3.5"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.15",
