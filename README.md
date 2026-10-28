@@ -10,7 +10,7 @@ A starter kit for the great [Kirby CMS](https://getkirby.com/), based on [Kirby 
 
 ## Requirements
 
-- PHP 8.1+
+- PHP 8.2+
 - NodeJS (with NPM) 18+
 
 ## Usage
